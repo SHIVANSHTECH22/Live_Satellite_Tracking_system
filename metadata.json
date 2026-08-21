@@ -1,0 +1,7 @@
+{
+  "name": "Skyroot OrbitTrack - Aerospace Satellite Tracking System",
+  "description": "Professional satellite tracking, nearest overhead satellite detection, orbital mechanics propagator, RF Doppler pass predictor, and IN-SPACe/UN space situational awareness platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
